@@ -1,0 +1,21 @@
+url : https://planfeessite-qaf.nfp.com/
+login : //*[@id="loginButton"]
+
+email : name = username
+password : name = password
+login btn : /html/body/app-root/app-login/div/div/div/div/div[2]/form/div[3]/div/button
+
+benchmark : /html/body/app-root/app-welcome/div/div/div/button[1]
+
+client name : /html/body/app-root/app-benchmarking/div/div/form/plansponsor/div/div/div[2]/div/input
+plantype : /html/body/app-root/app-benchmarking/div/div/form/plansponsor/div/div/div[3]/div[1]/select
+TPA : /html/body/app-root/app-benchmarking/div/div/form/plansponsor/div/div/div[3]/div[2]/select
+ScanDocuments : /html/body/app-root/app-benchmarking/div/div/form/div/div/div[1]/button
+
+logo : /html/body/app-root/app-benchmarking/app-header/div/div/div/div/div/img
+
+accessingreport : /html/body/app-root/app-welcome/div/div/div/button[2]
+
+pdf : /html/body/app-root/app-welcome/div/div/div/button[2]
+
+settings : /html/body/app-root/app-welcome/app-header/div/div/div/div[3]/button/i
