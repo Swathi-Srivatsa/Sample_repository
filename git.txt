@@ -1,0 +1,18 @@
+Git and github
+
+
+git init - initialization
+git status - status of added files
+git clone - coping the repo to local system
+git add "file path" or git add . (adds all the files and folder)
+git commit -m "comments"
+git push originNamde branchName
+
+
+
+note:
+before adding files keep the files in repo folder
+
+
+bitbucket is a gui which does not have any commandline
+
